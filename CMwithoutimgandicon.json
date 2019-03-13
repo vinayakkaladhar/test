@@ -1,0 +1,19 @@
+{
+  "type": "text",
+  "markerList": [
+    {
+      "start": 2,
+      "end": 4,
+      "type": "icon",
+      "iconUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/0.jpeg"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "type": "icon",
+      "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/ooyala.jpeg",
+      "imageUrl": ""
+    }
+  ]
+}
