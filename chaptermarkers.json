@@ -14,11 +14,11 @@
       "start": 8,
       "end": 9,
       "type": "icon",
-      "marker_color": "#f45642",
-      "background_color": "#9e09a0",
-      "hover_color": "#ead917",
-      "icon_url": "https://github.com/vinayakkaladhar/test/blob/master/download.jpeg",
-      "image_url": "https://github.com/vinayakkaladhar/test/blob/master/download.jpeg"
+      "markerColor": "#f45642",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg"
     }
   ]
 }
