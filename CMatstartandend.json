@@ -12,8 +12,8 @@
     },
     {
       "type": "text",
-      "start": 4,
-      "end": 5,
+      "start": 5,
+      "end": 3,
       "markerColor": "#f45642",
       "backgroundColor": "#f45642",
       "hoverColor": "#9e09a0",
@@ -30,7 +30,7 @@
     },
     {
       "start": 12,
-      "end": 13,
+      "end": 13.666,
       "markerColor": "#ead917",
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917",
