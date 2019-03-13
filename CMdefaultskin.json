@@ -15,15 +15,15 @@
       "start": 6,
       "end": 8,
       "type": "icon",
-      "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg",
-      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/ooyala.jpeg"
+      "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/ooyala.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg"
     },
     {
       "start": 9,
       "end": 10,
       "type": "icon",
       "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg",
-      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/ooyala.jpeg"
+      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/0.jpeg"
     }
   ]
 }
