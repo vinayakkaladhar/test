@@ -2,16 +2,13 @@
   "type": "text",
   "markerList": [
     {
-      "start": 4,
-      "end": 5,
-      "markerColor": "#f45642",
-      "backgroundColor": "#9e09a0",
-      "hoverColor": "#ead917",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas."
+      "start": 2,
+      "end": 4,
+      "text": "Goal!!"
     },
     {
       "start": 6,
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis quo vero, accusamus praesentium, culpa iure, doloremque soluta quisquam ipsa aliquid ducimus. Repellat adipisci recusandae voluptate doloribus, consequatur atque deleniti temporibus."
     },
     {
       "start": 8,
