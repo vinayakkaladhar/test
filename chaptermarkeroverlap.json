@@ -1,0 +1,20 @@
+{
+  "type": "text",
+  "markerList": [
+    {
+      "start": 2,
+      "end": 4,
+      "text": "Goal!!"
+    },
+    {
+      "type": "icon",
+      "start": 2,
+      "end": 4,
+      "markerColor": "#f45642",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/ooyala.jpeg"
+    }
+  ]
+}
