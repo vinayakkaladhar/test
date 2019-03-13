@@ -9,10 +9,27 @@
       "hoverColor": "#ead917"
     },
     {
+      "start": 2,
+      "end": 4,
+      "backgroundColor": "#f45642",
+      "hoverColor": "#9e09a0",
+      "text": "Goal!!"
+    },
+    {
       "start": 6,
       "end": 8,
       "type": "icon",
       "markerColor": "#f45642",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/ooyala.jpeg"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "type": "icon",
+      "markerColor": "#ead917",
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917",
       "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg",
