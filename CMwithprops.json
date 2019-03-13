@@ -4,13 +4,15 @@
     {
       "start": 2,
       "text": "Goal!!",
+      "markerColor": "#f45642",
       "end": 4,
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917"
     },
     {
-      "start": 2,
-      "end": 4,
+      "start": 4,
+      "end": 5,
+      "markerColor": "#f45642",
       "backgroundColor": "#f45642",
       "hoverColor": "#9e09a0",
       "text": "Goal!!"
