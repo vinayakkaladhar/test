@@ -1,27 +1,27 @@
 {
-  "marker_list": [
+  "type": "text",
+  "markerList": [
     {
-      "type": "text",
-      "start": 2,
-      "end": 4,
-      "text": "Goal!!"
+      "start": 4,
+      "end": 5,
+      "markerColor": "#f45642",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas."
     },
     {
-      "type": "text",
       "start": 6,
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis quo vero, accusamus praesentium, culpa iure, doloremque soluta quisquam ipsa aliquid ducimus. Repellat adipisci recusandae voluptate doloribus, consequatur atque deleniti temporibus."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas."
     },
     {
-      "type": "text",
       "start": 8,
       "end": 9,
-      "text": "Goal 2!!"
-    },
-    {
-      "type": "text",
-      "start": 12,
-      "end": 15,
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "type": "icon",
+      "marker_color": "#f45642",
+      "background_color": "#9e09a0",
+      "hover_color": "#ead917",
+      "icon_url": "https://github.com/vinayakkaladhar/test/blob/master/download.jpeg",
+      "image_url": "https://github.com/vinayakkaladhar/test/blob/master/download.jpeg"
     }
   ]
 }
