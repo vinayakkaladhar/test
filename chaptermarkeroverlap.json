@@ -7,9 +7,14 @@
       "text": "Goal!!"
     },
     {
-      "type": "icon",
       "start": 2,
       "end": 4,
+      "text": "Goal2222!!"
+    },
+    {
+      "type": "icon",
+      "start": 6,
+      "end": 8,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917",
